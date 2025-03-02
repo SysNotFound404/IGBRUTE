@@ -4,7 +4,7 @@ class Useragent:
     def generate_useragent(self):
         # Daftar komponen yang bisa diacak
         app_versions = [
-            "273.1.0.16.72", "272.0.0.16.70", "271.1.0.15.69",
+            "275.1.0.16.72", "272.0.0.16.70", "271.1.0.15.69",
             "270.0.0.15.65", "269.0.0.23.64", "268.1.0.18.61"
         ]
         android_versions = [
