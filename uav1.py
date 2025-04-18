@@ -1,3 +1,5 @@
+import random
+
 class Useragent:
 
     def generate_useragent(self):
